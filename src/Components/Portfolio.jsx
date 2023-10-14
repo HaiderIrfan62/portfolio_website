@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Repro",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "an AI-centered initiative combatting waste by enhancing recycling processes, gives users incentives for recycling of 10 different types of trash. Frameworks include Tensorflow Lite, Volley, GSON, Pyodbc and Flask to name a few.",
+    url: "https://github.com/HaiderIrfan62/Repro",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Microsoft Club GIKI App",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "App  that automates the generation and dispatching of certificates for Learning & Development sessions reducing time and effort, schedules meeting and gives timely reminders aswell.",
+    url: "",
   },
   {
-    title: "My Resume Site",
+    title: "Team Foxtrot Attendance App",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Application for Android recording the attendance of different sub-teams and mailing the report via e-mail.",
+    url: "",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "GIKI Mess Management App",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "An app that has a Student Portal and an Admin Portal which makes for a more convenient and automates portal. Streamlines a system through which students can change their mess status, add attendance via scanning the QR code and view the bill and menu reducing paperwork and labour.",
+    url: "https://github.com/HaiderIrfan62/Mess-Management-System-App",
   },
 ];
 
